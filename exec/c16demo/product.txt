@@ -1,0 +1,5 @@
+010 always 150
+011 mouse 540
+012 ring 300
+013 earbuds 1900
+014 biro 350
